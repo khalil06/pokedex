@@ -1,0 +1,21 @@
+{
+  "name": "pokedex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "gh-pages": "gh-pages -d dist -b gh-pages"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khalil06/pokedex.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khalil06/pokedex/issues"
+  },
+  "homepage": "https://github.com/khalil06/pokedex#readme"
+}
